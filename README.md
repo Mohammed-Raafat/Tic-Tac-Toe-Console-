@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Console
+# Tic-Tac-Toe-Game-Console
 
 Tic Tac Toe game with two players.
 
